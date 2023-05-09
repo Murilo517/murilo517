@@ -1,14 +1,9 @@
 👋
 
-<!--
-**Murilo517/murilo517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo517)](https://github.com/murilo517/github-readme-stats)
+Desenvolvedor full stack formado pela Kenzie Academy Brasil, tenho experiência em diversas tecnologias e ferramentas para desenvolvimento web. Trabalho principalmente com JavaScript, React, Node.js, Django e Python, além de ter conhecimentos em TypeScript, HTML, CSS e outras bibliotecas e frameworks.
 
 
 
 
-
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+- Email: murilosena07@hotmail.com

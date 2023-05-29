@@ -11,7 +11,7 @@ Alguns dos projetos em que trabalhei podem ser encontrados em meu repositório d
 
 EN:
 
-Full stack developer graduated from Kenzie Academy Brasil, with experience in various web development technologies and tools. I mainly work with JavaScript and Python, as well as having knowledge in TypeScript, HTML, CSS, React, Node.js, Django, and other libraries and frameworks.
+Full stack developer graduated from Kenzie Academy Brasil, with experience in various web development technologies and tools. I mainly work with JavaScript and Python, as well as having knowledge in TypeScript, React, Node.js, PostgreSQL Express.js, Sass, Django, CSS, HTML,and other libraries and frameworks.
 
 Some of the projects I have worked on can be found in my GitHub repository. Feel free to take a look and contact me if you have any questions or need help with a project.
 

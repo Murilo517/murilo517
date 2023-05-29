@@ -20,9 +20,9 @@ Some of the projects I have worked on can be found in my GitHub repository. Feel
 - Portfolio: https://portfolio-rho-gold-49.vercel.app/ 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo517&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo517&layout=compact)](https://github.com/murilo517/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo517&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Murilo517's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo517&show_icons=true&theme=transparent)](https://github.com/murilo517/github-readme-stats)
 
 

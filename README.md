@@ -15,8 +15,14 @@ Full stack developer graduated from Kenzie Academy Brasil, with experience in va
 
 Some of the projects I have worked on can be found in my GitHub repository. Feel free to take a look and contact me if you have any questions or need help with a project.
 
-    📫 Contact:
-    Email: murilosena07@hotmail.com
-    - Portfolio: https://portfolio-rho-gold-49.vercel.app/ 
+-📫 Contact:
+-Email: murilosena07@hotmail.com
+- Portfolio: https://portfolio-rho-gold-49.vercel.app/ 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo517)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo517&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 

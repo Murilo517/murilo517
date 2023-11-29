@@ -1,6 +1,6 @@
 👋
 
-Desenvolvedor full stack certificado pela Kenzie Academy Brasil, tenho experiência em diversas tecnologias e ferramentas para desenvolvimento web. Trabalho principalmente com JavaScript e Python, além de ter conhecimentos em Java, JavaScript/TypeScript, React, Node.js, PostgreSQL, Express.js, CSS e HTML. Entre outras bibliotecas e frameworks.
+Desenvolvedor full stack certificado pela Kenzie Academy Brasil, tenho experiência em diversas tecnologias e ferramentas para desenvolvimento web. Trabalho principalmente com Java e JavaScript, além de ter conhecimentos em Python, TypeScript, React, Node.js, PostgreSQL, Express.js, CSS e HTML. Entre outras bibliotecas e frameworks.
 
 Alguns dos projetos em que trabalhei podem ser encontrados em meu repositório do GitHub. Fique à vontade para dar uma olhada e entrar em contato comigo se tiver alguma dúvida ou precisar de ajuda em algum projeto.
 
@@ -11,7 +11,7 @@ Alguns dos projetos em que trabalhei podem ser encontrados em meu repositório d
 
 EN:
 
-Full stack developer graduated from Kenzie Academy Brasil, with experience in various web development technologies and tools. I mainly work with JavaScript and Python, as well as having knowledge in Java, JavaScript/TypeScript, React, Node.js, PostgreSQL, Express.js, CSS e HTML.
+Full stack developer graduated from Kenzie Academy Brasil, with experience in various web development technologies and tools. I mainly work with Java and JavaScript, as well as having knowledge in Python, TypeScript, React, Node.js, PostgreSQL, Express.js, CSS e HTML.
 Some of the projects I have worked on can be found in my GitHub repository. Feel free to take a look and contact me if you have any questions or need help with a project.
 
 -📫 Contact:

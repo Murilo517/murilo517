@@ -11,8 +11,9 @@ Tenho mais experiência em desenvolvimento Back-end, com maior proficiência em 
 
 EN:
 
-Full stack developer graduated from Kenzie Academy Brasil, with experience in various web development technologies and tools. I mainly work with Java and JavaScript, as well as having knowledge in Python, TypeScript, React, Node.js, PostgreSQL, Express.js, CSS e HTML.
-Some of the projects I have worked on can be found in my GitHub repository. Feel free to take a look and contact me if you have any questions or need help with a project.
+Full Stack Developer | Back-end Specialist (NestJS & MongoDB)
+
+I have more experience in Back-end development, with greater proficiency in NestJS and MongoDB. I also work with Java, Python, JavaScript, Node.js, PostgreSQL, React.js, Next.js, and TypeScript.
 
 -📫 Contact:
 -Email: murilosena07@hotmail.com

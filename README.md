@@ -1,10 +1,8 @@
 👋
 
-Desenvolvedor full stack certificado pela Kenzie Academy Brasil, tenho experiência em diversas tecnologias e ferramentas para desenvolvimento web. Trabalho principalmente com Java e JavaScript, além de ter conhecimentos em Python, TypeScript, React, Node.js, PostgreSQL. Entre outras bibliotecas e frameworks.
+Desenvolvedor Full Stack | Especialista em Back-end (NestJS & MongoDB)
 
-Atualmente cursando análise e desenvolvimento de sistemas.
-
-Alguns dos projetos em que trabalhei podem ser encontrados em meu repositório do GitHub. Fique à vontade para dar uma olhada e entrar em contato comigo se tiver alguma dúvida ou precisar de ajuda em algum projeto.
+Tenho mais experiência em desenvolvimento Back-end, com maior proficiência em NestJS e MongoDB. Trabalho também com Java, Python, JavaScript, Node.js, PostgreSQL, React.js, Next.js e TypeScript.
 
 
 - 📫 Contato:

@@ -1,28 +1,33 @@
-👋
+👋 Olá!
 
-Desenvolvedor Full Stack | Especialista em Back-end (NestJS & MongoDB)
+**Software Engineer | Back-End | Full Stack**
 
-Tenho mais experiência em desenvolvimento Back-end, com maior proficiência em NestJS e MongoDB. Trabalho também com Java, Python, JavaScript, Node.js, PostgreSQL, React.js, Next.js e TypeScript.
+Tenho forte atuação em desenvolvimento **Back-End**, focado na construção de **APIs escaláveis, integrações e sistemas de alta performance**, com ampla experiência em **NestJS, Node.js, TypeScript e bancos de dados SQL/NoSQL**.
 
+Experiência prática com **MongoDB, PostgreSQL, SQL Server**, além de atuação com **integrações financeiras e sistemas transacionais**.
 
-- 📫 Contato:
-- Email: murilosena07@hotmail.com
+Também possuo experiência com **Java, Python, JavaScript, React.js e Next.js**, permitindo visão full stack quando necessário.
+
+📫 **Contato**
+- Email: murilosena07@hotmail.com  
 - Portfólio: https://portfolio-murilo517.vercel.app/
+
 
 EN:
 
-Full Stack Developer | Back-end Specialist (NestJS & MongoDB)
+👋 Hello!
 
-I have more experience in Back-end development, with greater proficiency in NestJS and MongoDB. I also work with Java, Python, JavaScript, Node.js, PostgreSQL, React.js, Next.js, and TypeScript.
+**Software Engineer | Back-End | Full Stack**
 
--📫 Contact:
--Email: murilosena07@hotmail.com
+I have strong experience in **Back-End development**, focused on building **scalable APIs, system integrations, and high-performance architectures**, with solid expertise in **NestJS, Node.js, TypeScript, and SQL/NoSQL databases**.
+
+Hands-on experience with **MongoDB, PostgreSQL, and SQL Server**, as well as experience working with **financial integrations and transactional systems**.
+
+I also have experience with **Java, Python, JavaScript, React.js, and Next.js**, providing a full-stack perspective when needed.
+
+📫 **Contact**
+- Email: murilosena07@hotmail.com  
 - Portfolio: https://portfolio-murilo517.vercel.app/
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo517&layout=compact)](https://github.com/murilo517/github-readme-stats)
-
-
-[![Murilo517's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo517&show_icons=true&theme=transparent)](https://github.com/murilo517/github-readme-stats)
 
 
